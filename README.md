@@ -50,7 +50,7 @@ Spotify_History_Dashboard/
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Spotify_History_Dashboard.git
+https://github.com/Ritesh7370/Spotifty_History_Dishboard
 
 
 
